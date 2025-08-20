@@ -8,7 +8,7 @@ html {
 .container-navbar {
   background-color: #333;
   width: 100%;
-  height: 100px;
+  height: 150px;
 }
 
 .ul-navbar {
@@ -26,6 +26,7 @@ html {
   color: white;
   font-size: 30px;
 }
+
 .li-navbar:hover {
   background-color: tomato;
   transition: 0.2s ease-in-out;
